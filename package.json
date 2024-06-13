@@ -14,7 +14,9 @@
     "@react-native-firebase/auth": "^20.1.0",
     "firebase": "^10.12.2",
     "react": "18.2.0",
-    "react-native": "0.74.2"
+    "react-native": "0.74.2",
+    "react-native-camera-kit": "^13.0.0",
+    "react-native-fs": "^2.20.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
